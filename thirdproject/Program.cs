@@ -44,13 +44,17 @@
         //    Console.WriteLine("Daxil etdiyiniz ad sistemdə yoxdur.");
         //}
 
-        int number = 1;
-        for (int i = 0; i < 10; i++)
+        //int number = 1;
+        //for (int i = 0; i < 10; i++)
+        //{
+        //    Console.WriteLine(i);
+        //}
+
+
+        string[] name = { "Farid", "Isa", "Parviz", "Sahin" };
+        foreach (string adlar in name)
         {
-            Console.WriteLine(i);
+            Console.WriteLine(adlar);
         }
-
-
-
     }
 }
