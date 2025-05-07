@@ -20,31 +20,35 @@
         //}
 
 
-        Console.WriteLine("Adinizi daxil edin"); //task 3
-        string daxilOlunmaliAD = Console.ReadLine();
+        //Console.WriteLine("Adinizi daxil edin"); //task 3
+        //string daxilOlunmaliAD = Console.ReadLine();
 
-        string[] adlar = { "Farid", "Shahin", "Parviz", "Isa" };
+        //string[] adlar = { "Farid", "Shahin", "Parviz", "Isa" };
 
-        bool dogruCavab = false;
+        //bool dogruCavab = false;
 
-        for (int i = 0; i < adlar.Length; i++)
+        //for (int i = 0; i < adlar.Length; i++)
+        //{
+        //    if (daxilOlunmaliAD == adlar[i])
+        //    {
+        //        dogruCavab = true;
+        //        break;
+        //    }
+        //}
+        //if (dogruCavab)
+        //{
+        //    Console.WriteLine("Adınız sistemdə tapıldı.");
+        //}
+        //else
+        //{
+        //    Console.WriteLine("Daxil etdiyiniz ad sistemdə yoxdur.");
+        //}
+
+        int number = 1;
+        for (int i = 0; i < 10; i++)
         {
-            if (daxilOlunmaliAD == adlar[i])
-            {
-                dogruCavab = true;
-                break;
-            }
+            Console.WriteLine(i);
         }
-        if (dogruCavab)
-        {
-            Console.WriteLine("Adınız sistemdə tapıldı.");
-        }
-        else
-        {
-            Console.WriteLine("Daxil etdiyiniz ad sistemdə yoxdur.");
-        }
-
-
 
 
 

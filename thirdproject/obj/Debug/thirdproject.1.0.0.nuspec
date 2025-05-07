@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>thirdproject</id>
+    <version>1.0.0</version>
+    <authors>thirdproject</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="a71c93f6646a2431ddedb9d4e4bb3dc816ce6a59" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\behru\OneDrive\Desktop\c#'\thirdproject\thirdproject\bin\Debug\net6.0\thirdproject.runtimeconfig.json" target="lib\net6.0\thirdproject.runtimeconfig.json" />
+    <file src="C:\Users\behru\OneDrive\Desktop\c#'\thirdproject\thirdproject\bin\Debug\net6.0\thirdproject.dll" target="lib\net6.0\thirdproject.dll" />
+  </files>
+</package>

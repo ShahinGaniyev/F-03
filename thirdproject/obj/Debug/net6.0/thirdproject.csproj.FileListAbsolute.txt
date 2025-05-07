@@ -12,3 +12,4 @@ C:\Users\behru\OneDrive\Desktop\c#'\thirdproject\thirdproject\obj\Debug\net6.0\r
 C:\Users\behru\OneDrive\Desktop\c#'\thirdproject\thirdproject\obj\Debug\net6.0\thirdproject.pdb
 C:\Users\behru\OneDrive\Desktop\c#'\thirdproject\thirdproject\obj\Debug\net6.0\thirdproject.genruntimeconfig.cache
 C:\Users\behru\OneDrive\Desktop\c#'\thirdproject\thirdproject\obj\Debug\net6.0\ref\thirdproject.dll
+C:\Users\behru\OneDrive\Desktop\c#'\thirdproject\thirdproject\obj\Debug\net6.0\thirdproject.sourcelink.json
