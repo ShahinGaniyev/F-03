@@ -1,0 +1,14 @@
+C:\Users\behru\OneDrive\Desktop\c#'\thirdproject\thirdproject\bin\Debug\net6.0\thirdproject.exe
+C:\Users\behru\OneDrive\Desktop\c#'\thirdproject\thirdproject\bin\Debug\net6.0\thirdproject.deps.json
+C:\Users\behru\OneDrive\Desktop\c#'\thirdproject\thirdproject\bin\Debug\net6.0\thirdproject.runtimeconfig.json
+C:\Users\behru\OneDrive\Desktop\c#'\thirdproject\thirdproject\bin\Debug\net6.0\thirdproject.dll
+C:\Users\behru\OneDrive\Desktop\c#'\thirdproject\thirdproject\bin\Debug\net6.0\thirdproject.pdb
+C:\Users\behru\OneDrive\Desktop\c#'\thirdproject\thirdproject\obj\Debug\net6.0\thirdproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\behru\OneDrive\Desktop\c#'\thirdproject\thirdproject\obj\Debug\net6.0\thirdproject.AssemblyInfoInputs.cache
+C:\Users\behru\OneDrive\Desktop\c#'\thirdproject\thirdproject\obj\Debug\net6.0\thirdproject.AssemblyInfo.cs
+C:\Users\behru\OneDrive\Desktop\c#'\thirdproject\thirdproject\obj\Debug\net6.0\thirdproject.csproj.CoreCompileInputs.cache
+C:\Users\behru\OneDrive\Desktop\c#'\thirdproject\thirdproject\obj\Debug\net6.0\thirdproject.dll
+C:\Users\behru\OneDrive\Desktop\c#'\thirdproject\thirdproject\obj\Debug\net6.0\refint\thirdproject.dll
+C:\Users\behru\OneDrive\Desktop\c#'\thirdproject\thirdproject\obj\Debug\net6.0\thirdproject.pdb
+C:\Users\behru\OneDrive\Desktop\c#'\thirdproject\thirdproject\obj\Debug\net6.0\thirdproject.genruntimeconfig.cache
+C:\Users\behru\OneDrive\Desktop\c#'\thirdproject\thirdproject\obj\Debug\net6.0\ref\thirdproject.dll
